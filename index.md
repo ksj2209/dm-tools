@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+| 1 | The players encounter a group of more experienced adventurers heading in the other direction. If the players are polite, they are given some healing potions. |
+| 2 | A naked gnome runs across the path, gasps at the party, then runs back. Cannot be pursued.                                                                    |
 
-You can use the [editor on GitHub](https://github.com/ksj2209/dm-tools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ksj2209/dm-tools/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| 3  | A roll of thunder.                                                                                                                                   |
+| 4  | A black dog runs across the path.                                                                                                                    |
+| 5  | A lone yellow flower is growing in the middle of the path.                                                                                           |
+| 6  | A shadow drifts over the party.                                                                                                                      |
+| 7  | A pool of blood.                                                                                                                                     |
+| 8  | The earth shakes briefly.                                                                                                                            |
+| 9  | The sun bursts through an overclouded sky.                                                                                                           |
+| 10 | A beautiful white horse dashes past the party and disappears.                                                                                        |
+| 11 | The players find an encampment of well armed, friendly humans. They may stay the night here and avoid a random encounter for the night.              |
+| 12 | A dwarf falls out of the sky and splatters in front of the party. No logical source of the dwarf can be seen.                                        |
+| 13 | A player (whoever does the roll) trips over, takes 1D4 bludgeoning damage.                                                                           |
+| 14 | A stranger asks to be escorted to a town, but gives the party nothing for doing it.                                                                  |
+| 15 | The party finds the tracks of wolves going across the path (DC10 Nature/Survival).                                                                   |
+| 16 | A local ranger gives the party directions to their next destination, but he’s an ******* that sends them the wrong way. Increase the journey length. |
+| 17 | An arrow strikes a nearby tree, with a note attached to it. The note reads “You are a fool for looking!” No source of the arrow can be found.        |
+| 18 | A dung beetle pushes a ball across the road. If disturbs, it bursts into a smog, doing 1D4 poison damage and leaves the party member poisoned.       |
+| 19 | A mystery key is found laying in the road. If used on a locked door, roll a D20. A 20 will unlock the door, after which the key is lost.             |
+| 20 | A thick fog prevents travel for the rest of the day.                                                                                                 |
+| 21 | You were travelling in the wrong direction. Add a day of travel to your journey.                                                                     |
