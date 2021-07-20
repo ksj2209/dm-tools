@@ -1,7 +1,7 @@
 | 1 | The players encounter a group of more experienced adventurers heading in the other direction. If the players are polite, they are given some healing potions. |
 | 2 | A naked gnome runs across the path, gasps at the party, then runs back. Cannot be pursued.                                                                    |
 
-
+### Omens
 
 | 3  | A roll of thunder.                                                                                                                                   |
 | 4  | A black dog runs across the path.                                                                                                                    |
@@ -11,6 +11,9 @@
 | 8  | The earth shakes briefly.                                                                                                                            |
 | 9  | The sun bursts through an overclouded sky.                                                                                                           |
 | 10 | A beautiful white horse dashes past the party and disappears.                                                                                        |
+
+### Misc
+
 | 11 | The players find an encampment of well armed, friendly humans. They may stay the night here and avoid a random encounter for the night.              |
 | 12 | A dwarf falls out of the sky and splatters in front of the party. No logical source of the dwarf can be seen.                                        |
 | 13 | A player (whoever does the roll) trips over, takes 1D4 bludgeoning damage.                                                                           |
@@ -23,7 +26,7 @@
 | 20 | A thick fog prevents travel for the rest of the day.                                                                                                 |
 | 21 | You were travelling in the wrong direction. Add a day of travel to your journey.                                                                     |
 
-
+### Bards
 
 | 22 | A song of rest. Lose any debuffs.                                                      |
 | 23 | A song of good health. Gain 1D8 temporary hitpoints.                                   |
@@ -35,6 +38,7 @@
 | 29 | A song of storms. A storm starts and forces the party to stop for the rest of the day. |
 | 30 | A song. Nothing special happens.                                                       |
 
+### Merchants
 
 | 31 | Only useful item for sale is a potion of vitality, 25gp.                                                                                                      |
 | 32 | Studded leather armour and basic weapons.                                                                                                                     |
@@ -45,6 +49,9 @@
 | 37 | Herbalist (can give directions).                                                                                                                              |
 | 38 | Fisherman                                                                                                                                                     |
 | 39 | Gem & Jewelery merchant (500gp worth of loot)                                                                                                                 |
+
+### Misc
+
 | 40 | Bug catcher. A DC15 Nature check reveals a cartomoth, that will show them a shortcut if released. 10gp.                                                       |
 | 41 | The party catches up with and overtaking a slow travelling farmer, bickering with his wife. They know nothing useful.                                         |
 | 42 | There is an unusually vocal chorus of birdsong. Druids, Hunters, Clerics gain inspiration.                                                                    |
@@ -54,8 +61,7 @@
 | 46 | The party finds a sword in a stone. A DC15 Strength check pulls it out. It is a +1 Longsword.                                                                 |
 | 47 | A flower girl skips down the path towards the party, but disappears before she reaches them.                                                                  |
 
-
-
+### Religion
 
 | 48 | The party meets an old priest and a young priest, who offer them a blessing. The party has advantage on attacks against undead till they next take a long rest. |
 | 49 | A temple is found on a roll. Use a D6 to determine which God, of the six below, it is dedicated to.                                                             |
@@ -70,6 +76,7 @@
 | 58 | Demon Shrine, covered in blood - If the party makes an offering, they trigger a combat encounter.                                                               |
 | 59 | Shrine to Bhaal, destroyed - Nothing happens.                                                                                                                   |
 
+### It’s a trap!
 
 | 61 | DC10 Dex check or 1D6 bludgeoning damage, pit fall.                                                                                            |
 | 62 | DC15 Dex check or 1D8 bludgeoning damage, pit fall.                                                                                            |
@@ -83,14 +90,17 @@
 | 70 | Door in the middle of the path. If opened, a Hobgoblin is on the other side and gets a surprise attack. If walked around, the Hobgoblin flees. |
 
 
+### An old mans riddles
 
+| 71  | I have a tail, but no body. I have a head, but no brain. What am I? (coins, 50gp reward)|
+| 72  | What is running around Waterdeep, yet never truly moving? (The wall, Healing potion reward per player)|
+| 73  | My rivers are dry, my forests have no trees, my towns are flat and empty, and my roads cannot be walked on. What am I? (A map. The party's journey is shortened)|
+| 74  | Two bodies have I, though both joined in one. The more still I stand, the quicker I run. What am I? (An hourglass. Time slows down if they get it, and immediately skips to night if they don’t)|
+| 75  | What kind of ear cannot hear? (An ear of corn. Potion of Cure Silence, everyone deafened if they don’t get it)|
+| 76  | What has four wheels and flies? (A garbage wagon. Potion of flight if correct, attacked by Stirges if they don’t get it)|
 
-| 71  | I have a tail, but no body. I have a head, but no brain. What am I? (coins, 50gp reward)                                                                                                                                                                               |
-| 72  | What is running around Waterdeep, yet never truly moving? (The wall, Healing potion reward per player)                                                                                                                                                                 |
-| 73  | My rivers are dry, my forests have no trees, my towns are flat and empty, and my roads cannot be walked on. What am I? (A map. The party's journey is shortened)                                                                                                       |
-| 74  | Two bodies have I, though both joined in one. The more still I stand, the quicker I run. What am I? (An hourglass. Time slows down if they get it, and immediately skips to night if they don’t)                                                                       |
-| 75  | What kind of ear cannot hear? (An ear of corn. Potion of Cure Silence, everyone deafened if they don’t get it)                                                                                                                                                         |
-| 76  | What has four wheels and flies? (A garbage wagon. Potion of flight if correct, attacked by Stirges if they don’t get it)                                                                                                                                               |
+### Misc
+
 | 77  | A DC10 Perception check spots a small chest hidden a tree. It contains a gold ring worth 20gp.                                                                                                                                                                         |
 | 78  | A DC15 Perception check spots a small chest hidden in a tree. It contains 44gp.                                                                                                                                                                                        |
 | 79  | A DC20 Perception check spots a chest hidden in a tree. It contains a +1 Short Sword.                                                                                                                                                                                  |
